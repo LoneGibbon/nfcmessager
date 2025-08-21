@@ -1,0 +1,18 @@
+# ninja log v5
+6	4901	1755805747895239635	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	3a58a5841a691812
+8	5296	1755805748258816221	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	f8b175cb3627d764
+9	5837	1755805748849339730	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	5fd748615934a33
+1	13	0	/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/Debug/3n2f3d71/armeabi-v7a/CMakeFiles/cmake.verify_globs	b074e13a7dae6a78
+6	5757	1755805748761002441	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d2746fc1a6b61b2e
+6886	7650	1755805750657403237	/Users/lonegibbon/Documents/NfcMsgApp/android/app/build/intermediates/cxx/Debug/3n2f3d71/obj/armeabi-v7a/libreact_codegen_safeareacontext.so	66616b13e52a750
+9	6227	1755805749233432715	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	12de23fc2d3fb29a
+5	6499	1755805749489251953	CMakeFiles/appmodules.dir/Users/lonegibbon/Documents/NfcMsgApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d2884a058f86b18a
+8	4065	1755805747053494161	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	72d2400c3f07119d
+7	5993	1755805748991852967	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	14809f1353e2f5fd
+4066	6886	1755805749881119103	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	6282e69b7e1ab6e0
+7	5729	1755805748738221906	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	ff6e0832466d1fa
+8	5326	1755805748321266669	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/lonegibbon/Documents/NfcMsgApp/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	3cdf35e5ed80b430
+7650	7707	1755805750712005686	/Users/lonegibbon/Documents/NfcMsgApp/android/app/build/intermediates/cxx/Debug/3n2f3d71/obj/armeabi-v7a/libappmodules.so	b2ddc11fa2b35091
+28	242	1755806398523773613	build.ninja	94da7fd6d7cb3fb3
+0	10	0	clean	f62b0a5aeb0b2cc9
+0	8	0	/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/Debug/3n2f3d71/armeabi-v7a/CMakeFiles/cmake.verify_globs	b074e13a7dae6a78

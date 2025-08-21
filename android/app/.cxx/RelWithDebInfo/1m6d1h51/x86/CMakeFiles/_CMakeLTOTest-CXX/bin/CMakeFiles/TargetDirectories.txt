@@ -1,0 +1,4 @@
+/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/RelWithDebInfo/1m6d1h51/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/RelWithDebInfo/1m6d1h51/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/RelWithDebInfo/1m6d1h51/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/lonegibbon/Documents/NfcMsgApp/android/app/.cxx/RelWithDebInfo/1m6d1h51/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
