@@ -29,15 +29,13 @@
             </intent-filter>
 
             <!-- Custom scheme deep link: nfcmsg://read?... -->
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <!-- Matches URIs like: nfcmsg://read?m=Hello -->
-                <data android:scheme="nfcmsg" android:host="read" />
-            </intent-filter>
+        <intent-filter>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.DEFAULT" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <!-- Our new https scheme + host -->
+            <data android:scheme="https" android:host="nfcmsg.test" />
+        </intent-filter>
 
         </activity>
     </application>
